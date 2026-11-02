@@ -1,44 +1,49 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Vitória — defesa cibernética: investigo sinais, entendo sistemas e construo defesas" width="100%">
+  <img src="assets/header-ascii.png" alt="Retrato de Vitória desenhado com números e símbolos, ao lado de sua apresentação em estilo terminal" width="100%">
 </div>
 
 <br>
 
-**Oi, eu sou a Vitória.** Estou construindo minha carreira em cibersegurança defensiva, com foco em Linux, redes, análise de registros (*logs*) e automação com Python.
+## Olá, eu sou a Vitória 👋
 
-Gosto de investigar o que aconteceu, entender o porquê e transformar o aprendizado em ferramentas pequenas, testadas e documentadas.
+Estou construindo meu espaço na **cibersegurança defensiva**. Gosto de investigar sinais, entender o comportamento dos sistemas e transformar estudo em projetos que funcionam de verdade.
+
+Minha base hoje passa por **Linux, redes, análise de registros (logs) e Python**. Tenho curiosidade para fazer perguntas, método para testar respostas e coragem para continuar aprendendo.
+
+> `curiosidade + evidência + prática = evolução`
+
+## 01 // No meu radar
 
 ```text
-vitoria@cyber:~$ cat foco-atual.txt
-> monitoramento e triagem de eventos
-> Linux, redes e protocolos
-> automação defensiva com Python
-> prática em laboratórios autorizados
+[+] Entender o que um evento revela — e o que ele ainda não revela
+[+] Diagnosticar redes e sistemas com calma e método
+[+] Automatizar tarefas defensivas pequenas e úteis
+[+] Escrever código que outras pessoas consigam testar e entender
 ```
 
-## Projetos em destaque
+## 02 // Projetos
 
-**[Linux Log Analyzer](https://github.com/V2olencia/linux-log-analyzer)**  
-Análise educacional de eventos SSH e `sudo`, com agregação e alertas por limiar.
+**01 — [Linux Log Analyzer](https://github.com/V2olencia/linux-log-analyzer)**  
+Leitura de eventos SSH e `sudo`, agregação de ocorrências e alertas por limiar. Um exercício de transformar registros em sinais investigáveis.
 
-**[Network Fundamentals Lab](https://github.com/V2olencia/network-fundamentals-lab)**  
-Laboratórios de redes e uma ferramenta local para estudar sub-redes IPv4 e IPv6.
+**02 — [Network Fundamentals Lab](https://github.com/V2olencia/network-fundamentals-lab)**  
+Laboratórios de redes e uma ferramenta local para estudar sub-redes IPv4 e IPv6. Fundamentos que sustentam qualquer investigação de segurança.
 
-**[Secure Password Generator](https://github.com/V2olencia/secure-password-generator)**  
-Geração de senhas com `secrets`, testes e decisões de segurança documentadas.
+**03 — [Secure Password Generator](https://github.com/V2olencia/secure-password-generator)**  
+Geração de senhas com `secrets`, testes e decisões de segurança documentadas. Um projeto pequeno para praticar escolhas que importam.
 
-Também criei um [protótipo de catálogo em TypeScript](https://github.com/V2olencia/julia-costa-lash-catalogo) para praticar desenvolvimento web e testes de ponta a ponta (*end-to-end*).
+**Fora da trilha principal:** também desenvolvi um [catálogo em TypeScript](https://github.com/V2olencia/julia-costa-lash-catalogo), com prática em desenvolvimento web e testes de ponta a ponta (*end-to-end*).
 
-## Meu método
+## 03 // Como penso
 
-`entender` → `praticar` → `automatizar` → `testar` → `documentar`
+`observar → contextualizar → levantar hipóteses → testar → registrar`
 
-Cada projeto é uma chance de mostrar meu raciocínio, os resultados e o que ainda pode melhorar.
+Quero que cada repositório mostre o raciocínio por trás da solução: o que tentei, o que funcionou, quais são os limites e o que posso melhorar.
 
-## Compromisso
+## 04 // Meu compromisso
 
-Segurança exige responsabilidade. Pratico em ambientes próprios, laboratórios ou sistemas com autorização explícita. Não publico credenciais, dados de terceiros ou resultados de testes sem permissão.
+Pratico em ambientes próprios, laboratórios e sistemas com autorização explícita. Respeito a privacidade das pessoas e não publico credenciais, dados de terceiros ou resultados de testes sem permissão.
 
 <div align="center">
-  <sub>Em construção constante. Com curiosidade, método e coragem para aprender.</sub>
+  <sub>Em construção constante. Cada projeto é mais uma peça da minha trajetória.</sub>
 </div>
