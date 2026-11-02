@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="assets/header-ascii.png" alt="Retrato de Vitória desenhado com números e símbolos, ao lado de sua apresentação em estilo terminal" width="100%">
-</div>
 
 <br>
 
