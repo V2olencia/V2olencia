@@ -1,37 +1,44 @@
-# Olá, eu sou Vitória 👋
+<div align="center">
+  <img src="assets/header.svg" alt="Vitória — defesa cibernética: investigo sinais, entendo sistemas e construo defesas" width="100%">
+</div>
 
-Estudante de tecnologia em formação para atuar com cibersegurança. Estou construindo uma base prática em Linux, redes, análise de logs e automação com Python.
+<br>
 
-## Foco atual
+**Oi, eu sou a Vitória.** Estou construindo minha carreira em cibersegurança defensiva, com foco em Linux, redes, análise de registros (*logs*) e automação com Python.
 
-- fundamentos de segurança e uso ético;
-- administração e diagnóstico em Linux;
-- TCP/IP, DNS e HTTP;
-- leitura e triagem de logs;
-- scripts pequenos, testáveis e documentados em Python.
+Gosto de investigar o que aconteceu, entender o porquê e transformar o aprendizado em ferramentas pequenas, testadas e documentadas.
+
+```text
+vitoria@cyber:~$ cat foco-atual.txt
+> monitoramento e triagem de eventos
+> Linux, redes e protocolos
+> automação defensiva com Python
+> prática em laboratórios autorizados
+```
 
 ## Projetos em destaque
 
-- [Linux Log Analyzer](https://github.com/V2olencia/linux-log-analyzer) — parser educacional de eventos SSH e `sudo`, com agregação e alerta por limiar.
-- [Network Fundamentals Lab](https://github.com/V2olencia/network-fundamentals-lab) — laboratórios de redes e uma ferramenta local para estudar sub-redes IPv4/IPv6.
-- [Secure Password Generator](https://github.com/V2olencia/secure-password-generator) — geração de senhas com `secrets`, testes e decisões de segurança documentadas.
+**[Linux Log Analyzer](https://github.com/V2olencia/linux-log-analyzer)**  
+Análise educacional de eventos SSH e `sudo`, com agregação e alertas por limiar.
 
-Também mantenho um [protótipo de catálogo em TypeScript](https://github.com/V2olencia/julia-costa-lash-catalogo), que demonstra fundamentos de desenvolvimento web e testes E2E, embora não seja o foco principal do portfólio.
+**[Network Fundamentals Lab](https://github.com/V2olencia/network-fundamentals-lab)**  
+Laboratórios de redes e uma ferramenta local para estudar sub-redes IPv4 e IPv6.
 
-## Como estudo
+**[Secure Password Generator](https://github.com/V2olencia/secure-password-generator)**  
+Geração de senhas com `secrets`, testes e decisões de segurança documentadas.
 
-Procuro transformar cada tema em uma sequência verificável:
+Também criei um [protótipo de catálogo em TypeScript](https://github.com/V2olencia/julia-costa-lash-catalogo) para praticar desenvolvimento web e testes de ponta a ponta (*end-to-end*).
 
-1. entender o conceito;
-2. reproduzir em laboratório autorizado;
-3. automatizar uma parte pequena;
-4. testar o resultado;
-5. registrar limitações e próximos passos.
+## Meu método
 
-## Princípios
+`entender` → `praticar` → `automatizar` → `testar` → `documentar`
 
-Todos os exemplos são destinados a ambientes próprios, laboratórios ou sistemas com autorização explícita. Não publico credenciais, dados reais de terceiros nem resultados de testes sem permissão.
+Cada projeto é uma chance de mostrar meu raciocínio, os resultados e o que ainda pode melhorar.
 
-## Próxima etapa
+## Compromisso
 
-Estou aprofundando monitoramento defensivo, troubleshooting de redes e automações simples para apoiar tarefas de segurança.
+Segurança exige responsabilidade. Pratico em ambientes próprios, laboratórios ou sistemas com autorização explícita. Não publico credenciais, dados de terceiros ou resultados de testes sem permissão.
+
+<div align="center">
+  <sub>Em construção constante. Com curiosidade, método e coragem para aprender.</sub>
+</div>
