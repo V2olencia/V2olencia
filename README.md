@@ -31,17 +31,4 @@ Geração de senhas com `secrets`, testes e decisões de segurança documentadas
 
 **Fora da trilha principal:** também desenvolvi um [catálogo em TypeScript](https://github.com/V2olencia/julia-costa-lash-catalogo), com prática em desenvolvimento web e testes de ponta a ponta (*end-to-end*).
 
-## 03 // Como penso
 
-`observar → contextualizar → levantar hipóteses → testar → registrar`
-
-Quero que cada repositório mostre o raciocínio por trás da solução: o que tentei, o que funcionou, quais são os limites e o que posso melhorar.
-
-## 04 // Meu compromisso
-
-Pratico em ambientes próprios, laboratórios e sistemas com autorização explícita. Respeito a privacidade das pessoas e não publico credenciais, dados de terceiros ou resultados de testes sem permissão.
-
-<div align="center">
-  <sub>Em construção constante. Cada projeto é mais uma peça da minha trajetória.</sub>
-</div>
-](https://github.com/lowlighter/metrics.git)
